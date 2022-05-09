@@ -1,4 +1,4 @@
-# TSR-4M-RS Thermal radiation shield for Tesla TSR-4M
+# TSR-4M-RS Thermal Radiation Shield for Tesla TSR-4M
 
 ## Description
 Tesla TSR-4M thermal radiation shield. Intended to be printed from PETG using Prusa MK3S.
